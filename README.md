@@ -72,6 +72,28 @@ Examines healthcare costs across departments to identify differences in recorded
 
 Uses location-based visualisations to explore how recorded billing amounts vary across cities and states.
 
+## Key Findings
+
+Initial analysis of 5,000 healthcare visits identified the following patterns:
+
+- Treatment costs totalled 2,630,406, compared with 546,039 in medication costs.
+- Of the 5,000 visits, 3,085 were marked Paid and 1,915 were marked Pending.
+- Pending visits represented 38.3% of the recorded visits.
+- Provider 5 recorded the highest visit volume and total treatment costs among the five provider IDs. It also had the lowest average patient satisfaction score in the initial analysis.
+- Cardiology recorded the highest total treatment costs among the five departments.
+- Missing insurance coverage and incomplete admission, discharge, follow-up, and room-type information were identified as data quality considerations.
+
+Note: Financial values are presented in the dataset's recorded units because the currency has not been confirmed. These findings are descriptive and do not establish causation or independently demonstrate provider efficiency.
+
+## Data Limitations
+
+- The currency of the financial fields has not been established.
+- Missing values may affect some calculations.
+- Provider costs and patient satisfaction alone do not establish clinical quality or efficiency.
+- Pending payments require further investigation before being interpreted as outstanding financial liabilities.
+- Observed trends require validation before being attributed to operational changes.
+
+
 ##  Business Questions
 
 This project explores the following questions:
