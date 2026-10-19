@@ -5,7 +5,7 @@
 This project analyses healthcare utilisation and financial performance using Power BI. It explores billing amounts, medication costs, treatment costs, insurance coverage, out-of-pocket expenses, room charges, medical procedures, diagnoses, and departmental costs.
 
 The dashboard was designed to transform healthcare data into interactive visual insights that can help stakeholders explore financial patterns, healthcare utilisation, and differences across departments and procedures.
-https://github.com/user-attachments/assets/61ca4116-8161-4968-9322-17a79d699c62
+https://github.com/Famous-Omoregie/Healthcare-Utilisation-and--Cost-Analysis/issues/1#issue-5929507109
 
 ##  Project Objectives
 
